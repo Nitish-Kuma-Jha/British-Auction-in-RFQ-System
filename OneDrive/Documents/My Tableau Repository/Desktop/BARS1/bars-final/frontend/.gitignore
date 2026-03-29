@@ -1,0 +1,22 @@
+# Frontend ignores
+node_modules/
+build/
+
+# Environment files
+.env
+
+# Logs
+npm-debug.log*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# React Scripts
+coverage/
+.cache/
+
+# Temporary files
+*.tmp
+*.temp
+*~
